@@ -1,43 +1,9 @@
-<h1 align="center">SaviorCode</h1>
-<!-- Avatar con glow blanco más intenso (ideal dark mode) -->
 <p align="center">
-<svg role="img" width="180" height="180" viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <clipPath id="clip2">
-      <circle cx="150" cy="150" r="120"/>
-    </clipPath>
-    <filter id="neon2" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur in="SourceGraphic" stdDeviation="4" result="b1"/>
-      <feGaussianBlur in="SourceGraphic" stdDeviation="9" result="b2"/>
-      <feMerge>
-        <feMergeNode in="b1"/>
-        <feMergeNode in="b2"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-  </defs>
-
-  <rect width="100%" height="100%" fill="transparent"/>
-
-  <g clip-path="url(#clip2)">
-    <image x="30" y="30" width="240" height="240"
-           href="https://avatars.githubusercontent.com/u/53241276?v=4"
-           preserveAspectRatio="xMidYMid slice"/>
-  </g>
-
-  <g filter="url(#neon2)">
-    <circle cx="150" cy="150" r="125" fill="none" stroke="#FFFFFF" stroke-width="5" stroke-opacity="0.9"/>
-    <circle cx="150" cy="150" r="125" fill="none" stroke="#FFFFFF" stroke-width="10" stroke-opacity="0.5"/>
-  </g>
-</svg>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&repeat=false&width=435&lines=S4VI0R+C0D3" alt="Typing SVG" />
 </p>
-
-<h3 align="center">A passionate fullstack developer from Panamá</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00C2FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;Backend+Developer;Fullstack+Engineer;Always+Learning+New+Tech" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&pause=1000&color=9C6DF7&center=true&vCenter=true&repeat=false&width=435&lines=Panamenian+FullStack+Dev" alt="Typing SVG" />
 </p>
-
 ---
 
 ### 👨‍💻 Sobre Mí
