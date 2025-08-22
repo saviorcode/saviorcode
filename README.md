@@ -1,9 +1,19 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&repeat=false&width=435&lines=S4VI0R+C0D3" alt="Typing SVG" />
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/saviorcode/saviorcode/main/avatar.svg"
+       width="220" alt="avatar" style="border-radius:50%;" />
+</p>
+  
+</span>
+</p>
+
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&pause=1000&color=9C6DF7&center=true&vCenter=true&repeat=false&width=435&lines=Panamenian+FullStack+Dev" alt="Typing SVG" />
 </p>
+
 ---
 
 ### 👨‍💻 Sobre Mí
@@ -13,14 +23,6 @@ Además de programar, disfruto el diseño digital y explorar ideas creativas. �
 
 ---
 
-### 🌐 Social
-<p align="center">
-<a href="https://instagram.com/arielthelastking" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-</a>
-</p>
-
----
 
 ## 🛠 Habilidades
 
@@ -34,7 +36,7 @@ Además de programar, disfruto el diseño digital y explorar ideas creativas. �
 
 **Complementarios (Frameworks, Librerías & Tools):**  
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"></code>
+<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"></code>
@@ -152,7 +154,7 @@ Uso distribuciones Linux enfocadas en **ciberseguridad y pentesting**, como **Pa
 
 
 ---
-## 📊 Estadisticas de Github
+## 📊 Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saviorcode&show_icons=true&theme=tokyonight" alt="stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=saviorcode&theme=tokyonight" alt="streak" />
