@@ -138,7 +138,7 @@ Uso distribuciones Linux enfocadas en **ciberseguridad y pentesting**, como **Pa
 ---
 
 ### 🧩 ERP & Business Automation
-<code><img height="30" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAllBMVEVHcEwSICsSICsSICsSICsSICsSICsSICsSICsSICsSICsSICsSICsSICsSICsSICsSICsSICsAAAIAARHQ5vDi8vfj+P7v/v/N4+9IXGaAkJgJGCRhbXUABx2r3u5wgImwvsSPoKo5Qkn9//+drLJTdIWGuc9slaYWMkjT6vTU3N+XhE8iJixnYEjx0mfCpkVnURLZuVq2go4GAAAAEXRSTlMA1Hn4acJYrM8R8TGcyiqF3igA530AAAGZSURBVDiNjVNpc4IwFAQFxaOMSUxCAoT7EDza///nmkOQFuz0fXAy2ZXd7HvPssba+c7R9Tz36Pg7a6E23h48a+85c3hEn5zNT/wIZrWdwLuPOQ6A/XKyiEvGgG+X8VFl8w4HwDhdvycAhTvmGEKIwHiEoTmuRocwT3gENCXMs5LnUF97O8vXCUGOCSEdU9cwSpIUR5qxPhgFWNLgfD5fCnkNGyFEkxQcGg2VYQhoQIikXHAOmRB1I5qUolC/1JW/KKKYZ0R+A3etqKv+cWuyIlKOXMtWhKRIK8SlTECzqv+6923LKVcETxNiVvD6GmeKQfjjnrcsLovEEJREiGhZsx6lyirNrrH8CylYrCV0o1GEq/p2/8zIJZB20ywlOICmHSZIlHSNqG4wwSQIzhjjC9Ue5TMPZpQgi+T7RN2mmGAZWpcPQQ3DgMIYsIrJzHmZltE1HqIemqUqVtmoVo19U82y/ug2+N/AvB85dxhKexk/vcZ+kXHyJ5uxoDJdHOX09+jOt9OxR87aXs1g5eSw2qr1364Ok/X/BirLPpiNXGrpAAAAAElFTkSuQmCC" alt="netsuite"></code>
+<code><img height="30" src="https://avatars.githubusercontent.com/u/94555368?s=48&v=4" alt="netsuite"></code>
 **NetSuite (SuiteScript 2.x):**  
 - Suitelet (UI, endpoints, reports, exportaciones)
 - ClientScript (validaciones UI, lógica de formularios)
