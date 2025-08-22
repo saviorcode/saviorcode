@@ -114,7 +114,7 @@ Además de programar, disfruto el diseño digital y explorar ideas creativas. �
 
 **API Testing:**  
 <code><img height="30" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"></code>
-<code><img height="30" src="https://www.vectorlogo.zone/logos/insomnia/insomnia-icon.svg" alt="insomnia"></code>
+<code><img height="30" src="https://insomnia.rest/images/insomnia-logo-light.svg" alt="insomnia"></code>
 
 **IDEs & Editors:**  
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"></code>
