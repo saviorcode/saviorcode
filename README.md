@@ -18,6 +18,11 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg" alt="Panamá" width="32"/>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20Source-Lover-green?style=flat-square&logo=github" />
+  <img alt="Static Badge" src="https://img.shields.io/badge/maker-maker?style=flat-square&logo=visa&label=Closed%20Source&color=darkblue">
+  <img src="https://img.shields.io/badge/Made%20in-Panamá-red?style=flat-square&logo=flag" />
+</p>
 
 ---
 
@@ -166,7 +171,4 @@ Además de programar, disfruto el diseño digital y explorar ideas creativas. �
 
 ---
 
-## 🚀 Badges
-![Portfolio](https://img.shields.io/badge/Portfolio-Online-blue?style=for-the-badge&logo=google-chrome)
-![Open Source](https://img.shields.io/badge/Open%20Source-Lover-green?style=for-the-badge&logo=github)
-![Panamá](https://img.shields.io/badge/Made%20in-Panamá-red?style=for-the-badge&logo=flag)
+
