@@ -138,7 +138,7 @@ Uso distribuciones Linux enfocadas en **ciberseguridad y pentesting**, como **Pa
 ---
 
 ### 🧩 ERP & Business Automation
-
+<code><img height="30" src="https://www.netsuite.com/portal/assets/ico/favicon.ico" alt="netsuite"></code>
 **NetSuite (SuiteScript 2.x):**  
 - Suitelet (UI, endpoints, reports, exportaciones)
 - ClientScript (validaciones UI, lógica de formularios)
