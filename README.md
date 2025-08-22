@@ -24,6 +24,14 @@
   <img src="https://img.shields.io/badge/Made%20in-Panamá-red?style=flat-square&logo=flag" />
 </p>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hasanmonsur/hasanmonsur/main/github-user-contribution.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hasanmonsur/hasanmonsur/main/github-user-contribution.svg">
+  </picture>
+</div>
+
 ---
 
 ### 👨‍💻 Sobre Mí
@@ -163,11 +171,6 @@ Además de programar, disfruto el diseño digital y explorar ideas creativas. �
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=saviorcode&theme=tokyonight" alt="streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saviorcode&layout=compact&theme=tokyonight" alt="languages" />
 </p>
-
----
-
-## 📈 Contribution Graph
-![SaviorCode's Graph](https://github-readme-activity-graph.vercel.app/graph?username=saviorcode&theme=tokyo-night)
 
 ---
 
