@@ -31,131 +31,124 @@ Además de programar, disfruto el diseño digital y explorar ideas creativas. �
 
 ## 🛠 Habilidades
 
-### 🎨 Frontend  
+<table align="center" border="1" cellspacing="0" cellpadding="10">
+  <tr>
+<td align="center" valign="top" width="300">
+      <h3>🎨 Frontend</h3>
+      <b>Fundamentales</b><br/>
+      <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+      <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+      <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+      <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"><br/><br/>
+      <b>Frameworks & Tools</b><br/>
+      <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+      <img height="30" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg">
+      <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+      <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"><br/>
+      <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+      <img height="30" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg">
+      <img height="30" src="https://www.chartjs.org/media/logo-title.svg">
+      <img height="30" src="https://profilinator.rishav.dev/skills-assets/jquery.png">
+    </td>
+    <td align="center" valign="top" width="300">
+      <h3>⚙️ Backend</h3>
+      <b>Fundamentales</b><br/>
+      <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+      <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+      <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+      <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"><br/><br/>
+      <b>Frameworks & Runtimes</b><br/>
+      <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+      <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
+      <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg"><br/>
+      <img height="30" src="https://cdn.worldvectorlogo.com/logos/django.svg">
+      <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
+      <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg">
+    </td>
+    <td align="center" valign="top" width="300">
+      <h3>🗄️ Bases de Datos</h3>
+      <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+      <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+      <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg"><br/>
+      <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
+      <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
+      <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <h3>📱 Mobile</h3>
+      <b>Fundamentales</b><br/>
+      <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg"><br/><br/>
+      <b>Frameworks & Tools</b><br/>
+      <img height="30" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg">
+    </td>
+    <td align="center" valign="top">
+      <h3>☁️ DevOps</h3>
+      <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+      <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg">
+      <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+    </td>
+    <td align="center" valign="top">
+      <h3>🔐 Seguridad & Pentesting</h3>
+      <img height="30" src="https://tse3.mm.bing.net/th/id/OIP.PYERB_cLi2_djWV8JEy93QHaHa?r=0&w=474&h=474&c=7&p=0" alt="Parrot OS">
+      <img height="30" src="https://www.kali.org/images/kali-logo.svg" alt="Kali Linux"><br/><br/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <h3>🖥️ Developer Tools</h3>
+      <b>Version Control</b><br/>
+        <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+        <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+        <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg"><br/><br/>
+      <b>CLI & Terminals</b><br/>
+        <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
+        <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg">
+        <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+        <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"><br/><br/>
+      <b>API Testing</b><br/>
+        <img height="30" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
+        <img height="30" src="https://insomnia.rest/images/insomnia-logo-light.svg"><br/><br/>
+      <b>IDEs & Editors</b><br/>
+      <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+      <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg">
+      <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg">
+      <img height="30" src="https://resources.jetbrains.com/storage/products/phpstorm/img/meta/phpstorm_logo_300x300.png">
+      <img height="30" src="https://resources.jetbrains.com/storage/products/webstorm/img/meta/webstorm_logo_300x300.png"><br/><br/>
+       <b>Virtualization (Local)</b><br/>
+      <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png">
+    </td>
+    <td colspan="3" align="center" valign="top">
+      <h3>🧩 ERP & Business Automation</h3>
+      <img height="30" src="https://avatars.githubusercontent.com/u/94555368?s=48&v=4" alt="NetSuite"><br/><br/>
+      <b>NetSuite (SuiteScript 2.x)</b><br/>
+      Suitelet (UI, endpoints, reportes, exportaciones) · ClientScript (validaciones y lógica de formularios)<br/><br/>
+      <img height="22" src="https://img.shields.io/badge/NetSuite-SuiteScript%202.x-FF0000?logo=oracle&logoColor=white">
+      <img height="22" src="https://img.shields.io/badge/Script-Suitelet-0A66C2">
+      <img height="22" src="https://img.shields.io/badge/Script-ClientScript-0A66C2">
+    </td>
+  </tr>
+  <tr>
+    
+  </tr>
+</table>
 
-**Fundamentales:**  
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
-
-**Complementarios (Frameworks, Librerías & Tools):**  
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
-<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"></code>
-<code><img height="30" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"></code>
-<code><img height="30" src="https://www.chartjs.org/media/logo-title.svg"></code>
-<code><img height="30" src="https://profilinator.rishav.dev/skills-assets/jquery.png"></code>
-
----
-
-### ⚙️ Backend  
-
-**Fundamentales:**  
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
-
-**Complementarios (Frameworks & Runtimes):**  
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg"></code>
-<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/django.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg"></code>
-
----
-
-### 🗄️ Base de datos  
-
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"></code>
-
----
-
-
-### 📱 Mobile  
-
-**Fundamentales:**  
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg"></code>
-
-**Complementarios (Frameworks & Tools):**  
-<code><img height="30" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"></code>
-
----
-
-### ☁️ DevOps  
-
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"></code>
-
----
-
-### 🖥️ Developer Tools  
-
-**Version Control:**  
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg"></code>
-
-**CLI & Terminals:**  
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code> <!-- Zsh/Bash -->
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"></code> <!-- CMD -->
-
-**API Testing:**  
-<code><img height="30" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"></code>
-<code><img height="30" src="https://insomnia.rest/images/insomnia-logo-light.svg" alt="insomnia"></code>
-
-**IDEs & Editors:**  
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg"></code>
-<code><img height="30" src="https://resources.jetbrains.com/storage/products/phpstorm/img/meta/phpstorm_logo_300x300.png" alt="phpstorm"></code>
-<code><img height="30" src="https://resources.jetbrains.com/storage/products/webstorm/img/meta/webstorm_logo_300x300.png" alt="webstorm"></code>
-
-**Virtualization (Local):**  
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" alt="virtualbox"></code>
-
----
-
-### ​ Seguridad & Pentesting  
-
-<code><img height="30" src="https://tse3.mm.bing.net/th/id/OIP.PYERB_cLi2_djWV8JEy93QHaHa?r=0&w=474&h=474&c=7&p=0" alt="parrot-os"></code>
-<code><img height="30" src="https://www.kali.org/images/kali-logo.svg" alt="kali-linux"></code>
-
-Uso distribuciones Linux enfocadas en **ciberseguridad y pentesting**, como **Parrot OS** y **Kali Linux**, lo que me permite fortalecer mis habilidades en seguridad ofensiva y defensiva.
-
----
-
-### 🧩 ERP & Business Automation
-<code><img height="30" src="https://avatars.githubusercontent.com/u/94555368?s=48&v=4" alt="netsuite"></code>
-**NetSuite (SuiteScript 2.x):**  
-- Suitelet (UI, endpoints, reports, exportaciones)
-- ClientScript (validaciones UI, lógica de formularios)
-
-<!-- Badges descriptivos -->
-![NetSuite](https://img.shields.io/badge/NetSuite-SuiteScript%202.x-FF0000?logo=oracle&logoColor=white)
-![Suitelet](https://img.shields.io/badge/Script-Suitelet-0A66C2)
-![ClientScript](https://img.shields.io/badge/Script-ClientScript-0A66C2)
 
 ---
 
 ### 🎨 Habilidades creativas (Extra)
 
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DaVinci_Resolve_17_logo.svg/800px-DaVinci_Resolve_17_logo.svg.png" alt="davinci"></code>
+<table align="center" border="1" cellspacing="0" cellpadding="10">
+  <tr>
+    <td align="center" valign="top">
+      <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="Blender">
+      <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="Photoshop">
+      <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" alt="Illustrator">
+      <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DaVinci_Resolve_17_logo.svg/800px-DaVinci_Resolve_17_logo.svg.png" alt="DaVinci Resolve">
+    </td>
+  </tr>
+</table>
 
 
 ---
