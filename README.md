@@ -20,7 +20,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20Source-Lover-green?style=flat-square&logo=github" />
-  <img alt="Static Badge" src="https://img.shields.io/badge/maker-maker?style=flat-square&logo=visa&label=Closed%20Source&color=darkblue">
+  <img alt="Static Badge" src="https://img.shields.io/badge/moneymaker-moneymaker?style=flat-square&logo=visa&label=Closed%20Source&color=darkblue">
   <img src="https://img.shields.io/badge/Made%20in-Panamá-red?style=flat-square&logo=flag" />
 </p>
 
